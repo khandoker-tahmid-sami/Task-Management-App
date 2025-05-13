@@ -34,7 +34,7 @@ const TaskBoard = () => {
         })
       );
     }
-
+    setTaskToEdit(null);
     setShowAddModal(false);
   };
 
