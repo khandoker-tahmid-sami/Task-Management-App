@@ -1,12 +1,47 @@
-# React + Vite
+# Food Order Management
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Task Management App — A simple and responsive task management tool built with React and Tailwind CSS. It allows users to add, edit, and prioritize tasks with tags and favorite options. Includes modal-based forms, state management, and clean UI/UX for productivity.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Add New Tasks
+- Edit Existing Tasks
+- Delete Tasks
+- Mark as Favorite
+- Priority Levels
+- Component-Based Architecture
 
-## Expanding the ESLint configuration
+## Screenshot
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![task management app](./task%20management%20app.png)
+
+## Tech Stack
+
+- **React**
+- **Vite**
+- **Tailwind CSS**
+- **JavaScript (ES6+)**
+
+## Installation
+
+Follow these steps to set up the project locally:
+
+## 1. Clone the repository
+
+git clone https://github.com/khandoker-tahmid-sami/Task-Management-App.git
+
+## 2. Navigate into the project directory
+
+cd Task-Management App
+
+## 3. Install project dependencies
+
+npm install
+
+## 4. Start the development server
+
+npm run dev
+
+## 5. Open yout browser and go to
+
+http://localhost:5173
